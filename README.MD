@@ -39,3 +39,29 @@ Underline 2
 
 # Imagenes
 ![Logo Github](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+
+# Code snippets
+Codigo en JSON
+
+```JSON
+{
+    {
+        "Title": "Apples",
+        "count": [12000, 12000],
+        "description": {"text": "-----", "sensitive": false}
+    }
+}
+```
+
+Codigo en JS
+```Javascript
+function $initHighlight(block, cls){
+    try{
+        if (cls){
+            console.log("HOLA")
+        }
+    }catch (e){
+        console.log("CHAU")
+    }
+}
+```
