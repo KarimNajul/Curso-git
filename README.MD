@@ -65,3 +65,9 @@ function $initHighlight(block, cls){
     }
 }
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+| - | - | - |
+| Maxi | Burgos | 59683650 |
+| Karim | Najul | 43543902 |
